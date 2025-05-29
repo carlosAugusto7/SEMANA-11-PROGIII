@@ -1,4 +1,4 @@
-package teste;
+package teste3;
 
 public class Animal {
     protected String nome;
